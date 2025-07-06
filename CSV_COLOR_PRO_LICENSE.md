@@ -23,7 +23,7 @@
 
 This EULA governs the terms of use of Plugin made available to You via JetBrains Marketplace. This EULA is entered into between You and Developer.
 
-CSV Color Pro is a free Plugin with some paid functionality, you must ensure that the maximum number of paid functionality Plugin Users does not exceed the number of Plugin Users for which you have purchased paid functionality Plugin.
+CSV Color Pro is a paid Plugin, you must ensure that the maximum number of paid functionality Plugin Users does not exceed the number of Plugin Users for which you have purchased paid functionality Plugin.
 
 You are authorized to use Plugin in accordance with the usage notes available at the plugin home page on the JetBrains Marketplace, for the period of time specified by Plugin Vendor in any country where JetBrains Products are available.
 
